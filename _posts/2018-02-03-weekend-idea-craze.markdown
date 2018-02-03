@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adventures of a C newbie"
+title:  "Weekend idea craze"
 date:   2018-02-03
 categories: Software
 tags: C
