@@ -24,7 +24,7 @@ github_username: erp-lsf
 
 # Build settings
 markdown: kramdown
-theme: textlog 
+remote_theme: heiswayi/textlog 
 plugins:
   - jekyll-feed
 
